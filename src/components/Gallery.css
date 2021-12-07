@@ -1,0 +1,13 @@
+.cards{
+    width: 800px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+input {
+    height: 20px;
+    width:  300px;
+    margin: 20px;
+}

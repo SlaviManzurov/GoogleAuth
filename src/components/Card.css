@@ -1,0 +1,19 @@
+img{
+    height: 200px;
+    width: 194px;
+    border-radius: 30px;  
+}
+
+.card {
+    width: 196px;
+    border: 2px solid rgb(96, 12, 134);
+    border-radius: 30px;  
+}
+
+.txt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 8; 
+    -webkit-box-orient: vertical;
+}
